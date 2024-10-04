@@ -1,0 +1,25 @@
+
+tkinter help:
+https://www.pythontutorial.net/tkinter/tkinter-combobox/
+https://pythonassets.com/posts/drop-down-list-combobox-in-tk-tkinter/
+https://www.geeksforgeeks.org/python-tkinter-entry-widget/
+https://pythonbasics.org/tkinter-checkbox/
+https://www.askpython.com/python-modules/tkinter/drawing-lines
+https://www.tutorialspoint.com/displaying-images-from-url-in-tkinter
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-pandas-dataframe
+
+ai:
+https://platform.openai.com/docs/guides/speech-to-text
+https://platform.openai.com/docs/guides/text-to-speech
+https://platform.openai.com/examples
+
+
+wav data: 
+https://docs.python.org/3/library/wave.html
+https://tomroelandts.com/articles/basic-python-scripts-to-save-and-load-audio-files
+
+pandas stuff: 
+https://www.geeksforgeeks.org/how-to-add-one-row-in-an-existing-pandas-dataframe/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_string.html
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-pandas-dataframe
