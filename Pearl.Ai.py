@@ -1,16 +1,5 @@
 
-
-
-
-
-api_key = 'sk-UjOcQZvtA82EIW4dOGqAb7z-wmtJ1qFGQISy0SDi6WT3BlbkFJ9UTeQIPKJspoG-i2xp8kbBrUhUyeCPxUfHypTDuy0A'
-
 #necessary modules
-
-
-
-
-
 import os
 from playsound import playsound
 from openai import OpenAI #openAI API module
