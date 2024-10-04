@@ -1,4 +1,3 @@
-
 #necessary modules
 import os
 from playsound import playsound
@@ -10,10 +9,21 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 from PIL import Image, ImageTk
 import urllib.request
+import os
+
+
+#fetch api key from env variables
+API_KEY = os.getenv('API_KEY')
+if API_KEY is None:
+    print("API key not found. Please set the API_KEY environment variable.")
+else:
+    # Use the API key in your application
+    print(f"API Key: {API_KEY}")
+
 
 
 #api key
-client= OpenAI(api_key=api_key)
+client= OpenAI(api_key=API_KEY)
 
 
 #initialize recognition instance, recognizes speech
